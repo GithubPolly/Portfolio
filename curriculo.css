@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#Curriculo h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 0;
+}
+
+#Imagem img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+#informacoes h1 {
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+
+#informacoes p {
+  margin: 0;
+}
+
+
+#Formacao h1 {
+  font-size: 1.5em;
+}
+
+#Formacao li {
+  list-style-type: circle;
+}
+
+
+#Habiblidades-e-competencias h2 {
+  font-size: 1.5em;
+}
+
+#Habiblidades-e-competencias li {
+  list-style-type: square;
+}
